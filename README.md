@@ -41,6 +41,10 @@ coffee-leaf-deseases-prediction-ml/
 ├── README.md                              # This file
 ├── requirements.txt                       # Required Python packages
 ├── coffee-leaf-deseases-prediction.ipynb  # Main Jupyter Notebook
+├── best_model_dt.pkl                      # Best Decision Tree model
+├── best_model_knn.pkl                     # Best KNN model
+├── decision_tree_model.pkl                # Decision Tree model (paper params)
+├── knn_model.pkl                          # KNN model (paper params)
 └── dataset/
     ├── train_classes.csv                  # Training data labels
     ├── test_classes.csv                   # Test data labels
